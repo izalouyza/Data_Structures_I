@@ -1,9 +1,11 @@
 # 📂 Data Structures I
 
-Repositório dedicado às disciplinas **Algoritmos e Estrutura de Dados I (PEX1241)** e **Laboratório de Algoritmos e Estruturas de Dados I (PEX1243)**, contendo exemplos e resoluções de listas de exercícios.
+Repositório dedicado às disciplinas **Algoritmos e Estrutura de Dados I (PEX1241)** e **Laboratório de Algoritmos e Estruturas de Dados I (PEX1243)**, ministradas pelo professor **George Felipe Fernandes Vieira** contendo exemplos e resoluções de listas de exercícios.
 
-![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![Ambiente](https://img.shields.io/badge/Ambiente-VSCode-blue)
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/Data_Structures_I)
+
 ---
 
 ## 📌 1. Organização do Repositório
