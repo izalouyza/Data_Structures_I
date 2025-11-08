@@ -49,7 +49,7 @@ src/
 ```
 ---
 
-## 📂 Atividades
+## 💻 Atividades
 As atividades são separadas por unidade e organizadas por tema.
  
 ```
