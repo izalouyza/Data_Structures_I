@@ -8,15 +8,17 @@ Repositório dedicado às disciplinas **Algoritmos e Estrutura de Dados I (PEX12
 
 ---
 
-## 📌 1. Organização do Repositório
-O repositório está dividido em três unidades de estudo, cada uma contendo:
-- Uma pasta com as **listas de exercícios**;
-- Uma pasta com **exemplos** abordados na disciplina.
+## 📘 Estrutura Geral
 
-### 📖 Unidades de Estudo
-- [Unidade 1 - Ponteiros, Registros e Alocação de Memória](./U1/)
-- [Unidade 2 - Manipulação de Arquivos e Busca e Ordenação](./U2/)
-- [Unidade 3 - Pilhas, Filas e Listas](./U3/)
+O repositório está dividido em **três unidades**, cada uma com:
+- **Exemplos**: códigos demonstrativos usados nas aulas.  
+- **Atividades**: listas e exercícios resolvidos.  
+
+| Unidade | Conteúdo Principal |
+|----------|-------------------|
+| [U1](./U1/) | Ponteiros, Registros e Alocação de Memória |
+| [U2](./U2/) | Manipulação de Arquivos, Busca e Ordenação |
+| [U3](./U3/) | Pilhas, Filas e Listas |
 
 ---
 
@@ -51,7 +53,7 @@ src/
 As atividades são separadas por unidade e organizadas por tema.
  
 ```
-Atividades/
+src/Atividades/
 │
 ├── U1/
 │   ├── Ponteiros/
