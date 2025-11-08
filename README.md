@@ -25,7 +25,7 @@ Os exemplos estão organizados dentro de suas respectivas unidades e pastas tem�
 
 ```
 Data_Structures_I/
-src
+src/
 │
 ├── U1/
 │   ├── AlocacaodeMemoria/
